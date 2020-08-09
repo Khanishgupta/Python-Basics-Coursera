@@ -1,0 +1,8 @@
+addition_str = "2+5+10+20"
+
+x = 0
+a = addition_str.split("+")
+for m in a:
+    m = int(m)
+    x = x+m
+sum_val = x
