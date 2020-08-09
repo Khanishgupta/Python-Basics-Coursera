@@ -1,7 +1,0 @@
-str1 = "I love python"
-# HINT: what's the accumulator? That should go here.
-
-chars = []
-for i in str1:
-    for a in range(len(i)):
-        chars.append(i[a])
