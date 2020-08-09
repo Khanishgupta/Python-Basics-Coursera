@@ -1,0 +1,9 @@
+original_str = "The quick brown rhino jumped over the extremely lazy fox"
+
+
+num_words_list = []
+p = original_str.split()
+for i in p:
+    yo = len(i)
+    num_words_list.append(yo)
+print(num_words_list)
