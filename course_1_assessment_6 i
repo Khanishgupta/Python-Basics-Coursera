@@ -1,0 +1,4 @@
+lett = ""
+
+for m in range(7):
+    lett = lett + "b"
