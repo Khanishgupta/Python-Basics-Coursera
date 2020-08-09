@@ -1,0 +1,5 @@
+winners = ['Alice Munro', 'Alvin E. Roth', 'Kazuo Ishiguro', 'Malala Yousafzai', 'Rainer Weiss', 'Youyou Tu']
+
+z_winners = []
+winners.reverse()
+z_winners = winners
