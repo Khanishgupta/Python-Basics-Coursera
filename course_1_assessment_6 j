@@ -1,0 +1,12 @@
+import turtle
+wn = turtle.Screen()
+khani = turtle.Turtle()
+
+khani.speed(5)
+length = 150
+angle = 90
+for _ in range(10):
+    khani.forward(length)
+    khani.left(angle)
+    angle -= 2
+    length -= 10
