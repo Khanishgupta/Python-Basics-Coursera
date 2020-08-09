@@ -1,0 +1,2 @@
+xyz = square(5)
+print(xyz)
